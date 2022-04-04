@@ -1,2 +1,3 @@
-# WiproBoot
-Primeiro exercício de git da GamaAcademy.
+# Ícaro Leone Rodrigues Nogueira
+
+* Minha comida predileta é pizza de portuguesa.
